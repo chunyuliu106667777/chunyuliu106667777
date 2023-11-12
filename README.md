@@ -1,8 +1,9 @@
 ### Hi there 👋, 我是 [Calvin](https://github.com/chunyuliu106667777) 👨‍💻
 
 <br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <p>
-我是Calvin，一名来自中国的软件开发工程师，以下是一些关于我的个人信息：
+我是Calvin，一名软件开发工程师，以下是关于我的个人信息：
 <br/>
 👨🏽‍💻 目前从事网络安全相关的工作，专注于情报领域内的网空资产测绘及DNS相关的研究。
 <br/>  
@@ -12,8 +13,6 @@
 <br/>
 ❤️‍🔥 最后一句：学无止境，我爱我的祖国！
 </p>
- 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
  
 ### 🖋 编程语言:
 ![Java](https://img.shields.io/badge/Java-blue)
