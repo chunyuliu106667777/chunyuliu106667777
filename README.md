@@ -1,11 +1,11 @@
 ### Hi there 👋, 我是 [Calvin](https://github.com/chunyuliu106667777) 👨‍💻
 
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" width="40%" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <p>
 我是Calvin，一名软件开发工程师，以下是关于我的个人信息：
 <br/>
-👨🏽‍💻 目前从事网络安全相关的工作，专注于情报领域内的网空资产测绘及DNS相关的研究。
+👨🏽‍💻 目前从事网络安全相关工作，专注于网络空间资产测绘及DNS相关的研究。
 <br/>  
 💼 先后曾从事过前后端开发，大数据开发，喜欢钻研技术领域问题。
 <br/>
@@ -15,9 +15,10 @@
 </p>
  
 ### 🖋 编程语言:
-![Java](https://img.shields.io/badge/Java-blue)
 ![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Lua](https://img.shields.io/badge/Lua-red)
 
 ### 🛠️ 相关技术栈:
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
