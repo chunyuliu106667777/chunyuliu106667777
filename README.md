@@ -1,4 +1,4 @@
-### 哈喽哈喽 👋, 我是 [Calvin](https://github.com/chunyuliu106667777) 👨‍💻
+### Hi 👋, 我是 [Calvin](https://github.com/chunyuliu106667777) 👨‍💻
 
 <br/>
 <img align="right" width="40%" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
