@@ -20,11 +20,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ### 🛠️ 相关技术栈:
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue)
+![Ant Design](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=AntDesign)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Hadoop)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-black?style=flat-square&logo=Clickhouse)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch)
 ![Flink](https://img.shields.io/badge/-Flink-black?style=flat-square&logo=Flink)
 ![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=Spark)
-
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
+![RocketMQ](https://img.shields.io/badge/-RocketMQ-black?style=flat-square&logo=RocketMQ)
+![...](https://img.shields.io/badge/-...-black?style=flat-square&logo=...)
 <hr/>
