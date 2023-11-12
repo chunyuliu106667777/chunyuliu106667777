@@ -1,35 +1,13 @@
-### Hi there 👋, I'm [Calvin](https://github.com/chunyuliu106667777) 👨‍💻
+### Hi there 👋, 我是 [Calvin](https://github.com/chunyuliu106667777) 👨‍💻
 
-<br/>
-
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
 <br/>
 
 <p>
-A Full Stack JavaScript Developer 🚀 from India. I consider myself as a skilled JS Developer with good debugging skills.
+我是Calvin，一名来自中国的软件开发工程师，以下是一些关于我的个人信息：
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+🚀 目前从事网络安全相关的工作，专注于网络资产测绘及DNS相关服务的开发。
 <br/>  
-Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+💬 先后曾从事过后端开发，前端开发，大数据开发。
 </p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
